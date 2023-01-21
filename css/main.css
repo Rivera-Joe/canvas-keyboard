@@ -1,0 +1,8 @@
+canvas{
+    border: 1px solid #000;
+}
+
+ul li::first-letter{
+    text-transform: uppercase;
+
+}
